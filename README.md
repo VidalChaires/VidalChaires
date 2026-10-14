@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hola, soy Marcos Vidal
 
-<!--
-**VidalChaires/VidalChaires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador con formación en física enfocado en transformar matemáticas complejas y datos desordenados en soluciones automatizadas para negocios y finanzas. 
 
-Here are some ideas to get you started:
+### 🚀 Lo que hago
+* **Análisis Cuantitativo:** Modelado matemático, simulación estocástica y optimización.
+* **Automatización y ETL:** Limpieza de datos (Pandas/NumPy) y generación de reportes ejecutivos.
+* **Computación Científica:** Desarrollo de métodos numéricos de alto rendimiento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mi Stack Tecnológico
+* **Lenguajes:** Python, Fortran
+* **Librerías de Datos:** NumPy, SciPy, Pandas, Matplotlib, Streamlit
+* **Documentación Científica:** LaTeX
+
+### 📬 Contáctame
+* **Email:** chairesmarcos7@gmail.com
+* **Freelance:** [Contrátame en workana](https://www.workana.com/e/cef7ac0f0c5efacadbb3b85c4146df9d)
